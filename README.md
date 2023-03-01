@@ -1,4 +1,4 @@
 # react
-This will be list of react project
+First React Project from Scrimba, create a static page
 
-Each project will be in separate branch
+Deploy site using Netify: https://grand-mochi-9da6d5.netlify.app/
