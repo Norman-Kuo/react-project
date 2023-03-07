@@ -1,4 +1,4 @@
 # react
-This will be list of react project
+Create a airb&b project
 
-Each project will be in separate branch
+Netify: https://timely-sorbet-d4e238.netlify.app/
