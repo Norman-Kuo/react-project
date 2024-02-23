@@ -1,4 +1,4 @@
 # react
-This will be list of react project
+Create a Meme Generator
 
-Each project will be in separate branch
+Deploy site using Netify:: https://memegeneratorpractice.netlify.app/
